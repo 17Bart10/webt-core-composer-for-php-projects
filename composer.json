@@ -1,0 +1,16 @@
+{
+    "name": "htlw3r/paa-qr-code",
+    "description": "Pet finder QrCode App",
+    "autoload": {
+        "psr-4": {
+            "Htlw3r\\PaaQrCode\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nico Zach",
+            "email": "8157@htl.rennweg.at"
+        }
+    ],
+    "require": {}
+}
