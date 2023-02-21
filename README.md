@@ -44,3 +44,11 @@ The PAA (Pet Appreciation Association) has contacted your company in order to cr
 
 #### Links
 https://my.skilldisplay.eu/en/skillset/81
+
+
+## How to Run
+* Um Tailwind zu starten:
+`npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch`
+
+
+ * Vor einem Branch switch: `git clean -fXd`
