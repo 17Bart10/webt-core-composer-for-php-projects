@@ -49,6 +49,8 @@ https://my.skilldisplay.eu/en/skillset/81
 ## How to Run
 * Um Tailwind zu starten:
 `npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch`
+* Um Composer-Packages neu zu laden
+`composer i`
 
 
  * Vor einem Branch switch: `git clean -fXd`
